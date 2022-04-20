@@ -1,0 +1,1 @@
+alert("Hello People, welcome to my website!");
